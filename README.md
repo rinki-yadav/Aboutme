@@ -21,16 +21,16 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokc83&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinki-yadav&layout=compact)
 
 ### Be Social 
 [![Twitter: alokc83](https://img.shields.io/twitter/follow/alokc83?style=social)](https://twitter.com/alokc83)
-[![Linkedin: Alok Choudhary](https://img.shields.io/badge/-AlokChoudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alok-choudhary-628baa127)](www.linkedin.com/in/alok-choudhary-628baa127)
-[![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)](https://github.com/alokc83)
+[![Linkedin: Alok Choudhary](https://img.shields.io/badge/-Rinki Yadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alok-choudhary-628baa127)](www.linkedin.com/in/alok-choudhary-628baa127)
+[![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)](https://github.com/rinki-yadav)
 
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 <!--
-**alokc83/alokc83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rinki-yadav/Aboutme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
